@@ -1,0 +1,1 @@
+This project tracks my UCSC homework assignments.
